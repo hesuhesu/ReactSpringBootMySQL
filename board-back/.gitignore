@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Source Security
+/src/main/resources/application.properties
